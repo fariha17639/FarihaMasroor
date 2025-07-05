@@ -10,3 +10,7 @@ A Power BI dashboard visualizing pending vehicle orders to assist operations and
 - Area manager-wise order distribution  
 - Order status and payment tracking  
 **Skills used:** Power BI, Data Visualization, KPI Design, Dashboard Reporting
+
+[📈 Income Classification with KNN](https://github.com/fariha17639/income-knn)  
+Applied K-Nearest Neighbors (KNN) algorithm on census income data to predict whether a person earns more or less than $50K/year.  
+**Skills used:** Python, Pandas, Scikit-learn, KNN, Data Preprocessing, Classification Metrics
