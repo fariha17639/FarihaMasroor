@@ -2,7 +2,7 @@
 Applied hierarchical clustering to insurance claim data to find similar customer groups and possible outliers.  
 **Skills used:** Python, Pandas, Seaborn, Scikit-learn, Dendrograms, Agglomerative Clustering
 
-[📊 Pending Orders Dashboard (Power BI)](https://github.com/fariha17639/FarihaMasroor/blob/main/dashboards/car_sales_dashboard.jpg)  
+[📊 Pending Orders Dashboard (Power BI)](https://github.com/fariha17639/FarihaMasroor/blob/main/dashboards/car-salesdashboard.jpg)  
 A Power BI dashboard visualizing pending vehicle orders to assist operations and sales teams.  
 **Features:**
 - Pending orders by region, model, and color  
