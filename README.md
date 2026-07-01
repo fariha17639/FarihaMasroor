@@ -1,3 +1,12 @@
+# 👋 Hi, I'm Fariha Masroor
+
+**MS Data Science Graduate | Data Analyst | Power BI | SQL | Python**
+
+I'm passionate about turning data into actionable insights through business intelligence, analytics, and machine learning. My projects focus on solving real-world problems using Power BI, Python, SQL, and data visualization.
+
+---
+# 🚀 Featured Projects
+
 [📊 Global Superstore Executive Dashboard (Power BI)](https://github.com/fariha17639/global-superstore-powerbi-dashboard)
 
 An interactive executive dashboard built using **Power BI** to analyze global retail sales performance. The project demonstrates end-to-end Business Intelligence development, including **Power Query ETL**, **Star Schema data modeling**, **DAX calculations**, and interactive dashboard design.
@@ -27,3 +36,8 @@ A Power BI dashboard visualizing pending vehicle orders to assist operations and
 [📈 Income Classification with KNN](https://github.com/fariha17639/income-knn)  
 Applied K-Nearest Neighbors (KNN) algorithm on census income data to predict whether a person earns more or less than $50K/year.  
 **Skills used:** Python, Pandas, Scikit-learn, KNN, Data Preprocessing, Classification Metrics
+
+## 📫 Connect
+
+- **LinkedIn:** [www.linkedin.com/in/fariha-masroor](https://www.linkedin.com/in/fariha-masroor-22373a151/)
+- **GitHub:** https://github.com/fariha17639
