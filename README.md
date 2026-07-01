@@ -15,7 +15,7 @@ An interactive executive dashboard built using **Power BI** to analyze global re
 Applied hierarchical clustering to insurance claim data to find similar customer groups and possible outliers.  
 **Skills used:** Python, Pandas, Seaborn, Scikit-learn, Dendrograms, Agglomerative Clustering
 
-[📊 Pending Orders Dashboard (Power BI)](car-salesdashboard.JPG)  
+[📊 Pending Orders Dashboard (Power BI)]((https://github.com/fariha17639/Car_sales_Dashboard))  
 A Power BI dashboard visualizing pending vehicle orders to assist operations and sales teams.  
 **Features:**
 - Pending orders by region, model, and color  
