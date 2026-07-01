@@ -1,8 +1,7 @@
-[📊 Global Superstore Executive Dashboard (Power BI)] (https://github.com/fariha17639/global-superstore-powerbi-dashboard)
+[📊 Global Superstore Executive Dashboard (Power BI)](https://github.com/fariha17639/global-superstore-powerbi-dashboard)
 
 An interactive executive dashboard built using **Power BI** to analyze global retail sales performance. The project demonstrates end-to-end Business Intelligence development, including **Power Query ETL**, **Star Schema data modeling**, **DAX calculations**, and interactive dashboard design.
-
-**Key Features:**
+**Features:**
 - Executive KPI Dashboard (Sales, Profit, Orders, Customers, Profit Margin)
 - Interactive slicers for dynamic analysis
 - Monthly sales trend analysis
@@ -10,8 +9,7 @@ An interactive executive dashboard built using **Power BI** to analyze global re
 - Profitability analysis across global markets
 - Star Schema with Fact and Dimension tables
 - Custom DAX measures and Power Query transformations
-
-**Skills:** Power BI, DAX, Power Query, ETL, Star Schema, Data Modeling, Business Intelligence, Dashboard Design, Data Visualization
+**Skills used:** Power BI, DAX, Power Query, ETL, Star Schema, Data Modeling, Business Intelligence, Dashboard Design, Data Visualization
 
 [🚗 Car Claims Clustering](https://github.com/fariha17639/carclaims-hierarchical)  
 Applied hierarchical clustering to insurance claim data to find similar customer groups and possible outliers.  
