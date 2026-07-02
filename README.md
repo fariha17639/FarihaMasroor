@@ -21,6 +21,7 @@ An interactive executive dashboard built using **Power BI** to analyze global re
 **Skills used:** Power BI, DAX, Power Query, ETL, Star Schema, Data Modeling, Business Intelligence, Dashboard Design, Data Visualization
 
   🔗 Repository:  https://github.com/fariha17639/global-superstore-powerbi-dashboard
+  
 ---
 [🧬 Hybrid Feature Selection using Genetic Algorithms (Master's Thesis)](https://github.com/fariha17639/Hybrid_FStechniques_using_GA)
 
@@ -28,6 +29,7 @@ Master's research project focused on improving feature selection for high-dimens
 **Skills used:** Python • Machine Learning • Genetic Algorithms • Feature Selection • Research • Data Preprocessing • Model Evaluation
 
  🔗 Repository: https://github.com/fariha17639/Hybrid_FStechniques_using_GA
+ 
 ---
 [🗄️ Database Design & Data Modeling Portfolio](https://github.com/fariha17639/Database_designs)
 
@@ -40,12 +42,14 @@ A collection of database design projects showcasing **Entity Relationship (ER) m
 **Skills used:** SQL • Database Design • ER Modeling • Database Normalization • Data Warehousing • Star Schema • Relational Database Design
 
 🔗 Repository:  https://github.com/fariha17639/Database_designs
+
 ---
 [🚗 Car Claims Clustering](https://github.com/fariha17639/carclaims-hierarchical)  
 Applied hierarchical clustering to insurance claim data to find similar customer groups and possible outliers.  
 **Skills used:** Python, Pandas, Seaborn, Scikit-learn, Dendrograms, Agglomerative Clustering
 
  🔗 Repository: https://github.com/fariha17639/carclaims-hierarchical
+ 
 ---
 [📊 Pending Orders Dashboard (Power BI)](https://github.com/fariha17639/Car_sales_Dashboard)  
 A Power BI dashboard visualizing pending vehicle orders to assist operations and sales teams.  
@@ -57,6 +61,7 @@ A Power BI dashboard visualizing pending vehicle orders to assist operations and
 **Skills used:** Power BI, Data Visualization, KPI Design, Dashboard Reporting
 
   🔗 Repository: https://github.com/fariha17639/Car_sales_Dashboard
+  
 ---
 [📈 Income Classification with KNN](https://github.com/fariha17639/income-knn)  
 Applied K-Nearest Neighbors (KNN) algorithm on census income data to predict whether a person earns more or less than $50K/year.  
