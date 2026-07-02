@@ -68,6 +68,7 @@ Applied K-Nearest Neighbors (KNN) algorithm on census income data to predict whe
 **Skills used:** Python, Pandas, Scikit-learn, KNN, Data Preprocessing, Classification Metrics
 
   🔗 Repository: https://github.com/fariha17639/income-knn
+  
 ---
 ## 📫 Connect
 
